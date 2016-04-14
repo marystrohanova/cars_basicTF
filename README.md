@@ -17,3 +17,4 @@ Techs:
 - Selenium Web-driver
 - page objects
 - maven
+- testNG
