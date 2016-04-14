@@ -16,3 +16,4 @@ Techs:
 - java
 - Selenium Web-driver
 - page objects
+- maven
